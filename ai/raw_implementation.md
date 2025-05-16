@@ -15,3 +15,8 @@
 ## 2. RAG From Scratch: Conversational RAG Without LangChain or LlamaIndex
 [Video Link](https://www.youtube.com/watch?v=8sSHg1034r0)
 Expands on the "RAG from scratch" concept by focusing on building a conversational RAG system without using LangChain or LlamaIndex. Conversational RAG involves maintaining context over multiple turns of dialogue, allowing the system to answer follow-up questions and refer back to previous parts of the conversation. The video would probably cover how to manage conversation history and incorporate it into the retrieval and generation steps in a basic implementation.
+
+**References:**
+
+* [RAG Applications Without LangChain or LlamaIndex](https://blog.futuresmart.ai/building-rag-applications-without-langchain-or-llamaindex)
+  This blog post likely discusses the feasibility and approaches for building Retrieval Augmented Generation (RAG) applications using fundamental libraries and techniques, without the abstraction provided by higher-level frameworks like LangChain or LlamaIndex. It might cover the benefits and challenges of this approach, as well as provide insights into the core components and workflows involved in creating such applications.
